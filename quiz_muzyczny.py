@@ -8,7 +8,7 @@ from mutagen import File as MutagenFile
 
 
 ROUNDS = 10
-FRAGMENT_SECONDS = 10
+FRAGMENT_SECONDS = 20
 
 current_player = None
 
